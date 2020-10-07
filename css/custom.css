@@ -1,0 +1,40 @@
+
+@import '../css/font-awesome-4.7.0/css/font-awesome.min.css';
+
+/* Home Page */
+.productList{
+    width: 250px;
+    height: 250px;
+}
+
+.newProduct{
+	height: 210px;
+}
+
+.allProduct{
+    width: 250px;
+    height: 208px;
+}
+
+.icon-wcu
+{
+    font-size: 54px;
+    color: black;
+    margin-top: 19px;
+}
+
+/* About Page */
+.banner-custom{
+    min-height: 100px !important;
+    height: 220px !important;
+}
+
+
+/* Contact page */
+
+.contact-director-img{
+    border-radius: 50%;
+    float: left;
+    padding: 10px;
+}
+

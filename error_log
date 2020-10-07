@@ -1,0 +1,73 @@
+[07-Oct-2020 03:00:33 UTC] PHP Warning:  include(mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 29
+[07-Oct-2020 03:00:33 UTC] PHP Warning:  include(): Failed opening 'mailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 29
+[07-Oct-2020 03:00:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 32
+[07-Oct-2020 03:00:38 UTC] PHP Warning:  include(mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 29
+[07-Oct-2020 03:00:38 UTC] PHP Warning:  include(): Failed opening 'mailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 29
+[07-Oct-2020 03:00:38 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 32
+[07-Oct-2020 03:02:33 UTC] PHP Warning:  include(mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:02:33 UTC] PHP Warning:  include(): Failed opening 'mailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:02:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 36
+[07-Oct-2020 03:02:33 UTC] PHP Warning:  include(mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:02:33 UTC] PHP Warning:  include(): Failed opening 'mailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:02:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 36
+[07-Oct-2020 03:02:33 UTC] PHP Warning:  include(mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:02:33 UTC] PHP Warning:  include(): Failed opening 'mailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:02:33 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 36
+[07-Oct-2020 03:04:11 UTC] PHP Warning:  include(../mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:04:11 UTC] PHP Warning:  include(): Failed opening '../mailer/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:04:11 UTC] PHP Warning:  include(../mailer/class.smtp.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 34
+[07-Oct-2020 03:04:11 UTC] PHP Warning:  include(): Failed opening '../mailer/class.smtp.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 34
+[07-Oct-2020 03:04:11 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 36
+[07-Oct-2020 03:05:35 UTC] PHP Warning:  require(/home/vllgxn5o9ejx/public_html/mailer/class.phpmailer.php): failed to open stream: No such file or directory in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:05:35 UTC] PHP Fatal error:  require(): Failed opening required '/home/vllgxn5o9ejx/public_html/mailer/class.phpmailer.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/vllgxn5o9ejx/public_html/contact.php on line 33
+[07-Oct-2020 03:06:31 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 36
+[07-Oct-2020 03:13:29 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php:1879
+Stack trace:
+#0 /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php(1601): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 7 Oc...', 'This is a multi...')
+#1 /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php(1437): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/vllgxn5o9ejx/public_html/contact.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php on line 1879
+[07-Oct-2020 03:14:02 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:36
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 36
+[07-Oct-2020 03:14:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php:1879
+Stack trace:
+#0 /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php(1601): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 7 Oc...', 'This is a multi...')
+#1 /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php(1437): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/vllgxn5o9ejx/public_html/contact.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php on line 1879
+[07-Oct-2020 03:16:54 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer\PHPMailer\Exception' not found in /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php:1879
+Stack trace:
+#0 /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php(1601): PHPMailer\PHPMailer\PHPMailer->smtpSend('Date: Wed, 7 Oc...', 'This is a multi...')
+#1 /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php(1437): PHPMailer\PHPMailer\PHPMailer->postSend()
+#2 /home/vllgxn5o9ejx/public_html/contact.php(60): PHPMailer\PHPMailer\PHPMailer->send()
+#3 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/mailer/class.phpMailer.php on line 1879
+[07-Oct-2020 03:18:05 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/vllgxn5o9ejx/public_html/contact.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/vllgxn5o9ejx/public_html/contact.php on line 38
